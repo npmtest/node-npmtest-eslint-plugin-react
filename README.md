@@ -1,7 +1,7 @@
 # test coverage for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-react.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-react)
 #### React specific linting rules for ESLint
 
-[![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true)](https://www.npmjs.com/package/eslint-plugin-react)
+[![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-react)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-eslint-plugin-react/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-eslint-plugin-react/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-eslint-plugin-react/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-eslint-plugin-react%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-eslint-plugin-react%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Yannick Croissant",
-        "email": "yannick.croissant+npm@gmail.com"
+        "name": "Yannick Croissant"
     },
     "bugs": {
         "url": "https://github.com/yannickcr/eslint-plugin-react/issues"
@@ -74,8 +79,7 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "yannickcr",
-            "email": "yannick.croissant+npm@gmail.com"
+            "name": "yannickcr"
         }
     ],
     "name": "eslint-plugin-react",
@@ -83,7 +87,6 @@
     "peerDependencies": {
         "eslint": "^2.0.0 || ^3.0.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yannickcr/eslint-plugin-react.git"
