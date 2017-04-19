@@ -1,4 +1,7 @@
-# test coverage for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-react.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-react)
+# npmtest-eslint-plugin-react
+
+#### test coverage for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-react.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-react)
+
 #### React specific linting rules for ESLint
 
 [![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-react)
