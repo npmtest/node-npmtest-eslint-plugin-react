@@ -1,5 +1,5 @@
-<svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="398" fill="#555" width="720"></rect>
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">3 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
@@ -20,9 +20,8 @@
 <tspan x="10" y="282">  │ └── isarray@1.0.0 </tspan>
 <tspan x="10" y="298">  ├─┬ has@1.0.1 </tspan>
 <tspan x="10" y="314">  │ └── function-bind@1.1.0 </tspan>
-<tspan x="10" y="330">  ├─┬ jsx-ast-utils@1.4.0 </tspan>
-<tspan x="10" y="346">  │ └── object-assign@4.1.1 </tspan>
-<tspan x="10" y="362">  └─┬ object.assign@4.0.4 </tspan>
-<tspan x="10" y="378">    └── object-keys@1.0.11</tspan>
+<tspan x="10" y="330">  ├── jsx-ast-utils@1.4.1 </tspan>
+<tspan x="10" y="346">  └─┬ object.assign@4.0.4 </tspan>
+<tspan x="10" y="362">    └── object-keys@1.0.11</tspan>
 </text>
 </svg>
