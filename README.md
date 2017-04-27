@@ -1,6 +1,6 @@
 # npmtest-eslint-plugin-react
 
-#### test coverage for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-react.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-react)
+#### basic test coverage for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-react.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-react)
 
 #### React specific linting rules for ESLint
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-eslint-plugin-react/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-eslint-plugin-react/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-eslint-plugin-react/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-eslint-plugin-react/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-eslint-plugin-react/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-eslint-plugin-react/build/coverage.html/index.html)
 
@@ -100,7 +100,8 @@
         "test": "npm run lint && npm run unit-test",
         "unit-test": "istanbul cover --dir reports/coverage node_modules/mocha/bin/_mocha tests/**/*.js -- --reporter dot --opts tests/mocha.opts"
     },
-    "version": "6.10.3"
+    "version": "6.10.3",
+    "bin": {}
 }
 ```
 
